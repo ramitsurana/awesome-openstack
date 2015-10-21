@@ -16,9 +16,18 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
 # Menu:
 * [Main Resources](#main-resources)
 * [Useful Articles](#useful-articles)
+ * [Keystone](#keystone)
+ * [Cinder](#cinder)
  * [Swift](#swift)
  * [Nova](#nova)
  * [Magnum](#magnum)
+ * [Ironic](#ironic)
+ * [Neutron](#neutron)
+ * [Horizon](#horizon)
+ * [Glance](#glance)
+ * [Heat](#heat)
+ * [Sahara](#sahara)
+ * [Zaqar](#zaqar)
 * [Interesting Github-repos](#interesting-github-repos)
 * [Books](#books)
 * [Slide Presentations](#slide-presentations)
@@ -29,9 +38,30 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
 
 # Main Resources:
 # Useful Articles:
-##Swift
-##Nova
-##Magnum
+##Keystone:
+Official Documentation can be found [here](http://docs.openstack.org/developer/keystone/)
+##Cinder:
+Official Documentation can be found [here](http://docs.openstack.org/developer/cinder/)
+##Swift:
+Official Documentation can be found [here](http://docs.openstack.org/developer/swift/).
+##Nova:
+Official Documentation can be found [here](http://docs.openstack.org/developer/nova/)
+##Magnum:
+Official Documentation can be found [here](http://docs.openstack.org/developer/magnum/)
+##Ironic:
+Official Documentation can be found [here](http://docs.openstack.org/developer/ironic/)
+##Neutron:
+Official Documentation can be found [here](http://docs.openstack.org/developer/neutron/)
+##Horizon:
+Official Documentation can be found [here](http://docs.openstack.org/developer/horizon/)
+##Glance:
+Official Documentation can be found [here](http://docs.openstack.org/developer/glance/)
+##Heat:
+Official Documentation can be found [here](http://docs.openstack.org/developer/heat/)
+##Sahara:
+Official Documentation can be found [here](http://docs.openstack.org/developer/sahara/)
+##Zaqar:
+Official Documentation can be found [here](http://docs.openstack.org/developer/zaqar/)
 
 
 ## Interesting Github-repos:
@@ -47,7 +77,7 @@ Coming Soon ...
 
 
 ## Amazing People:
-
+* [Mark Collier](https://www.twitter.com/sparkycollier)
 
 ## Contributing:
 Contributions are welcome!
