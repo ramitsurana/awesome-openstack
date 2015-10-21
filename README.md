@@ -14,8 +14,11 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
 # Starting point:
 
 # Menu:
-* [Useful Articles](#useful-articles)
 * [Main Resources](#main-resources)
+* [Useful Articles](#useful-articles)
+ * [Swift](#swift)
+ * [Nova](#nova)
+ * [Magnum](#magnum)
 * [Interesting Github-repos](#interesting-github-repos)
 * [Books](#books)
 * [Slide Presentations](#slide-presentations)
@@ -24,10 +27,12 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
 * [Contributing](#contributing)
 * [License](#license)
 
+# Main Resources:
 # Useful Articles:
+##Swift
+##Nova
+##Magnum
 
-
-## Main Resources:
 
 ## Interesting Github-repos:
 * [Main Repo](https://www.github.com/openstack)
