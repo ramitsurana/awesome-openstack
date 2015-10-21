@@ -7,11 +7,12 @@ A curated list for awesome openstack links
 
 # What is Openstack ?
 
->  OpenStack is a free and open-source cloud-computing software platform.[2] Users primarily deploy it as an infrastructure-as-a-service (IaaS). The technology consists of a group of interrelated projects that control pools of processing, storage, and networking resources throughout a data center—which users manage through a web-based dashboard, through command-line tools, or through a RESTful API..
+>  OpenStack is a free and open-source cloud-computing software platform.Users primarily deploy it as an infrastructure-as-a-service (IaaS). The technology consists of a group of interrelated projects that control pools of processing, storage, and networking resources throughout a data center—which users manage through a web-based dashboard, through command-line tools, or through a RESTful API..
 
 _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
 
 # Starting point:
+
 
 # Menu:
 * [Main Resources](#main-resources)
@@ -40,6 +41,7 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
 # Useful Articles:
 ##Keystone:
 Official Documentation can be found [here](http://docs.openstack.org/developer/keystone/)
+*[Understanding Openstack Authentication: Keystone PKI ](https://www.mirantis.com/blog/understanding-openstack-authentication-keystone-pki/)
 ##Cinder:
 Official Documentation can be found [here](http://docs.openstack.org/developer/cinder/)
 ##Swift:
