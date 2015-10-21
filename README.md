@@ -79,7 +79,19 @@ Coming Soon ...
 
 
 ## Amazing People:
-* [Mark Collier](https://www.twitter.com/sparkycollier)
+###Foundation Staff:
+* [Mark Collier](https://twitter.com/sparkycollier)
+* [Jonathan Bryce] (https://twitter.com/jbryce)
+* [Lauren Sell](https://twitter.com/laurensell)
+* [Heidi Bretz](https://twitter.com/heidiscoop)
+* [Thierry Carrez](https://twitter.com/tcarrez)
+* [Todd Morey](https://twitter.com/toddmorey)
+* [Wes Wilson](https://twitter.com/iameswilson)
+* [Allison Price](https://twitter.com/amprice88)
+* [Claire Massey](https://twitter.com/Massey)
+* [Shari Mahrdt](https://twitter.com/sharimarii)
+* [Kendall Waters](https://twitter.com/wendallkaters)
+* [Tom Fifield](https://twitter.com/TomFifield)
 
 ## Contributing:
 Contributions are welcome!
