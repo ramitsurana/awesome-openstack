@@ -110,7 +110,18 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/z
 
 ## Videos:
 ###Main Account:
+* [Openstack Foundation](https://www.youtube.com/user/OpenStackFoundation)
+* [Mirantis](https://www.youtube.com/user/MirantisUS)
+* [Hp Helion](https://www.youtube.com/user/hpcloud)
+* [Rackspace](https://www.youtube.com/user/RackspaceHosting)
+* [Red Hat](https://www.youtube.com/user/RedHatCloud)
+* [Cisco](https://www.youtube.com/user/Cisco)
+
 ###Useful Videos:
+* [OpenStack 101 - What Is OpenStack?](https://www.youtube.com/watch?v=Qz5gyDenqTI)Time:6:35
+* [OpenStack Basics - Overview](https://www.youtube.com/watch?v=c1GFoY4btpo)Time:7:37
+* [Introduction to OpenStack](https://www.youtube.com/watch?v=bCsw2kkIWyw)Time:32:37
+* [Introduction to Openstack Neutron](https://www.youtube.com/watch?v=IGGgVuZe7UA)Time:33:21
 
 
 ## Amazing People:
