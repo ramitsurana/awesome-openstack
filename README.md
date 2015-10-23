@@ -31,6 +31,8 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
  * [Zaqar](#zaqar)
 * [Interesting Github-repos](#interesting-github-repos)
 * [Books](#books)
+ * [O'Reilly Publication](#o'reilly-publication)
+ * [Packt Publication](#packt-publication)
 * [Slide Presentations](#slide-presentations)
 * [Useful videos](#useful-videos)
 * [Amazing People](#amazing-people)
@@ -70,7 +72,19 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/z
 * [Main Repo](https://www.github.com/openstack)
 
 ## Books:
-Coming Soon ...
+###O'Reilly Publication:
+* [Deploying OpenStack](http://shop.oreilly.com/product/0636920021674.do) by [Ken Pepple](https://twitter.com/ken_pepple)
+* [OpenStack Swift](http://shop.oreilly.com/product/0636920033288.do) by [Joe Arnold](https://twitter.com/joearnold)
+* [OpenStack Operations Guide](http://shop.oreilly.com/product/0636920032625.do) by [Tom Fifield, Diane Fleming, Anne Gentle, Lorin Hochstein, Jonathan Proulx, Everett Toews, Joe Topjian](http://shop.oreilly.com/product/0636920032625.do#tab_03_2)
+
+###Packt Publication:
+* [OpenStack Cloud Computing Cookbook](https://www.packtpub.com/virtualization-and-cloud/openstack-cloud-computing-cookbook) by [Kevin Jackson](https://twitter.com/itarchitectkev)
+* [Learning OpenStack Networking (Neutron)](https://www.packtpub.com/virtualization-and-cloud/learning-openstack-networking-neutron) by [James Denton](https://twitter.com/jimmdenton)
+* [Production Ready OpenStack - Recipes for Successful Environments](https://www.packtpub.com/virtualization-and-cloud/production-ready-openstack-recipes-successful-environments) by [Arthur Berezin](https://twitter.com/arthurberezin)
+* [Mastering OpenStack](https://www.packtpub.com/virtualization-and-cloud/mastering-openstack) by [Omar Khedher]()
+* [Implementing Cloud Storage with OpenStack Swift](https://www.packtpub.com/virtualization-and-cloud/implementing-cloud-storage-openstack-swift) by [Amar Kapadia, Sreedhar Varma, Kris Rajana]()
+* [Learning OpenStack](https://www.packtpub.com/virtualization-and-cloud/learning-openstack) by [Alok Shrivastwa, Sunil Sarat]()
+
 
 ## Slide Presentations:
  
