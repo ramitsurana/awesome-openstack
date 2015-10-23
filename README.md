@@ -18,8 +18,9 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
 * [Main Resources](#main-resources)
 * [Useful Articles](#useful-articles)
  * [Keystone](#keystone)
- * [Cinder](#cinder)
- * [Swift](#swift)
+ * [Storage](#storage)
+  * [Cinder](#cinder)
+  * [Swift](#swift)
  * [Nova](#nova)
  * [Magnum](#magnum)
  * [Ironic](#ironic)
@@ -34,7 +35,7 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
  * [OReilly Publication](#oreilly-publication)
  * [Packt Publication](#packt-publication)
 * [Slide Presentations](#slide-presentations)
-* Videos(#videos)
+* [Videos](#videos)
  * [Main Account](#main-account)
  * [Useful videos](#useful-videos)
 * [Amazing People](#amazing-people)
@@ -48,10 +49,15 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/k
 
 * [Understanding Openstack Authentication: Keystone PKI](https://www.mirantis.com/blog/understanding-openstack-authentication-keystone-pki/)
 
-##Cinder:
+##Storage:
+###Cinder:
 Official Documentation can be found [here](http://docs.openstack.org/developer/cinder/)
 
-##Swift:
+* [Configuring OpenStack Block Storage](http://www.rackspace.com/knowledge_center/article/configuring-openstack-block-storage)
+* [What is Cinder and how to install and use it?](http://blog.flux7.com/blogs/openstack/tutorial-what-is-cinder-and-how-to-install-and-use-it)
+* [OpenStack storage: Cinder and Swift explained](http://www.computerweekly.com/feature/OpenStack-storage-Cinder-and-Swift-explained)
+
+###Swift:
 Official Documentation can be found [here](http://docs.openstack.org/developer/swift/).
 
 ##Nova:
