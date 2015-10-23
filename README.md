@@ -5,6 +5,10 @@ A curated list for awesome openstack links
 ![dsc09941](https://cloud.githubusercontent.com/assets/8342133/10628863/39364500-77e7-11e5-873a-d436f8a2a35c.jpg)
 
 
+>"Talent wins games, but teamwork and intelligence wins championships." by Michael Jordan
+
+Without the help from these [amazing contributors](https://github.com/ramitsurana/awesome-openstack/graphs/contributors), building this awesome-repo would never has been possible.Thank You very much guys !!
+
 # What is Openstack ?
 
 >  OpenStack is a free and open-source cloud-computing software platform.Users primarily deploy it as an infrastructure-as-a-service (IaaS). The technology consists of a group of interrelated projects that control pools of processing, storage, and networking resources throughout a data center—which users manage through a web-based dashboard, through command-line tools, or through a RESTful API..
@@ -138,18 +142,18 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/z
 
 ## Amazing People:
 ###Foundation Staff:
-* [Mark Collier](https://twitter.com/sparkycollier)
-* [Jonathan Bryce] (https://twitter.com/jbryce)
-* [Lauren Sell](https://twitter.com/laurensell)
-* [Heidi Bretz](https://twitter.com/heidiscoop)
-* [Thierry Carrez](https://twitter.com/tcarrez)
-* [Todd Morey](https://twitter.com/toddmorey)
-* [Wes Wilson](https://twitter.com/iameswilson)
-* [Allison Price](https://twitter.com/amprice88)
-* [Claire Massey](https://twitter.com/Massey)
-* [Shari Mahrdt](https://twitter.com/sharimarii)
-* [Kendall Waters](https://twitter.com/wendallkaters)
-* [Tom Fifield](https://twitter.com/TomFifield)
+* [Mark Collier](https://twitter.com/sparkycollier),Executive Director
+* [Jonathan Bryce](https://twitter.com/jbryce),Chief Operating Officer
+* [Lauren Sell](https://twitter.com/laurensell),Vice President, Marketing and Community Services
+* [Heidi Bretz](https://twitter.com/heidiscoop),Director of Business Development
+* [Thierry Carrez](https://twitter.com/tcarrez),Director of Engineering
+* [Todd Morey](https://twitter.com/toddmorey),Creative Director
+* [Wes Wilson](https://twitter.com/iameswilson),Lead Designer
+* [Allison Price](https://twitter.com/amprice88),Marketing Coordinator
+* [Claire Massey](https://twitter.com/Massey),Marketing Manager
+* [Shari Mahrdt](https://twitter.com/sharimarii),Marketing Associate
+* [Kendall Waters](https://twitter.com/wendallkaters),Marketing Associate
+* [Tom Fifield](https://twitter.com/TomFifield),Supporting Member
 
 ## Contributing:
 Contributions are welcome!
