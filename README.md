@@ -31,10 +31,12 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
  * [Zaqar](#zaqar)
 * [Interesting Github-repos](#interesting-github-repos)
 * [Books](#books)
- * [O'Reilly Publication](#o'reilly-publication)
+ * [OReilly Publication](#oreilly-publication)
  * [Packt Publication](#packt-publication)
 * [Slide Presentations](#slide-presentations)
-* [Useful videos](#useful-videos)
+* Videos(#videos)
+ * [Main Account](#main-account)
+ * [Useful videos](#useful-videos)
 * [Amazing People](#amazing-people)
 * [Contributing](#contributing)
 * [License](#license)
@@ -43,27 +45,39 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
 # Useful Articles:
 ##Keystone:
 Official Documentation can be found [here](http://docs.openstack.org/developer/keystone/)
-*[Understanding Openstack Authentication: Keystone PKI ](https://www.mirantis.com/blog/understanding-openstack-authentication-keystone-pki/)
+
+* [Understanding Openstack Authentication: Keystone PKI](https://www.mirantis.com/blog/understanding-openstack-authentication-keystone-pki/)
+
 ##Cinder:
 Official Documentation can be found [here](http://docs.openstack.org/developer/cinder/)
+
 ##Swift:
 Official Documentation can be found [here](http://docs.openstack.org/developer/swift/).
+
 ##Nova:
 Official Documentation can be found [here](http://docs.openstack.org/developer/nova/)
+
 ##Magnum:
 Official Documentation can be found [here](http://docs.openstack.org/developer/magnum/)
+
 ##Ironic:
 Official Documentation can be found [here](http://docs.openstack.org/developer/ironic/)
+
 ##Neutron:
 Official Documentation can be found [here](http://docs.openstack.org/developer/neutron/)
+
 ##Horizon:
 Official Documentation can be found [here](http://docs.openstack.org/developer/horizon/)
+
 ##Glance:
 Official Documentation can be found [here](http://docs.openstack.org/developer/glance/)
+
 ##Heat:
 Official Documentation can be found [here](http://docs.openstack.org/developer/heat/)
+
 ##Sahara:
 Official Documentation can be found [here](http://docs.openstack.org/developer/sahara/)
+
 ##Zaqar:
 Official Documentation can be found [here](http://docs.openstack.org/developer/zaqar/)
 
@@ -72,7 +86,7 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/z
 * [Main Repo](https://www.github.com/openstack)
 
 ## Books:
-###O'Reilly Publication:
+###OReilly Publication:
 * [Deploying OpenStack](http://shop.oreilly.com/product/0636920021674.do) by [Ken Pepple](https://twitter.com/ken_pepple)
 * [OpenStack Swift](http://shop.oreilly.com/product/0636920033288.do) by [Joe Arnold](https://twitter.com/joearnold)
 * [OpenStack Operations Guide](http://shop.oreilly.com/product/0636920032625.do) by [Tom Fifield, Diane Fleming, Anne Gentle, Lorin Hochstein, Jonathan Proulx, Everett Toews, Joe Topjian](http://shop.oreilly.com/product/0636920032625.do#tab_03_2)
@@ -84,12 +98,19 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/z
 * [Mastering OpenStack](https://www.packtpub.com/virtualization-and-cloud/mastering-openstack) by [Omar Khedher]()
 * [Implementing Cloud Storage with OpenStack Swift](https://www.packtpub.com/virtualization-and-cloud/implementing-cloud-storage-openstack-swift) by [Amar Kapadia, Sreedhar Varma, Kris Rajana]()
 * [Learning OpenStack](https://www.packtpub.com/virtualization-and-cloud/learning-openstack) by [Alok Shrivastwa, Sunil Sarat]()
+* [OpenStack Administration with Ansible](https://www.packtpub.com/virtualization-and-cloud/openstack-administration-ansible) by [Walter Bentley](https://twitter.com/djstayflypro)
+* [OpenStack Orchestration](https://www.packtpub.com/virtualization-and-cloud/openstack-orchestration) by [Adnan Ahmed Siddiqui]()
+* [OpenStack Networking Cookbook](https://www.packtpub.com/virtualization-and-cloud/openstack-networking-cookbook) by [Sriram Subramanian](https://twitter.com/sriramhere)[Chandan Dutta Chowdhury]()
 
 
 ## Slide Presentations:
- 
+* [Exploring Openstack Swift(Object Storage) and Swiftstack](http://www.slideshare.net/ramitsurana/openstackswift) by [Ramit Surana](https://twitter.com/ramitsurana)
+* [What's new in OpenStack Liberty](http://www.slideshare.net/sgordon2/whats-new-in-openstack-liberty) by [Stephen Gordon](https://twitter.com/xsgordon)
+* [OpenStack Architecture](http://www.slideshare.net/mirantis/openstack-architecture-43160012) by [Polina Petriuk]()
 
-## Useful Videos:
+## Videos:
+###Main Account:
+###Useful Videos:
 
 
 ## Amazing People:
