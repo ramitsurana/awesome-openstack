@@ -60,6 +60,12 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/n
 ##Magnum:
 Official Documentation can be found [here](http://docs.openstack.org/developer/magnum/)
 
+* [Announcing Magnum – CaaS for OpenStack](http://adrianotto.com/2015/01/announcing-magnum-caas-for-openstack/)
+* [Magnum is the Name, Docker Container Management is the Game](http://thenewstack.io/magnum-is-the-name-docker-container-management-is-the-game/)
+* [Magnum: Containers-as-a-Service for OpenStack Clouds](http://blog.rackspace.com/magnum-containers-as-a-service-for-openstack-clouds/) 
+* [KUBERNETES AND MAGNUM: CONTAINERS-AS-A-SERVICE IN OPENSTACK](https://kismatic.com/community/magnum-containers-service-for-openstack/)
+
+
 ##Ironic:
 Official Documentation can be found [here](http://docs.openstack.org/developer/ironic/)
 
