@@ -85,6 +85,10 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/n
 ##Horizon:
 Official Documentation can be found [here](http://docs.openstack.org/developer/horizon/)
 
+* [Building Custom Dashboards in OpenStack Horizon](http://keithtenzer.com/2015/02/16/building-custom-dashboards-in-openstack-horizon/) by [Keith Tenzer](https://twitter.com/keithtenzer)
+* [Openstack Horizon installation with SSL on Ubuntu](https://raymii.org/s/tutorials/Openstack-Set-Up-Horizon-Dashboard-on-Ubuntu.html) by [Remy van Elst](https://raymii.org/s/static/About.html)
+* [Deploying the Dashboard (Horizon)](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/2/html/Getting_Started_Guide/chap-Deploying_The_Dashboard.html) by [Red Hat](https://www.redhat.com)
+
 ##Glance:
 Official Documentation can be found [here](http://docs.openstack.org/developer/glance/)
 
