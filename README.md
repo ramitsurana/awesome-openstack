@@ -67,12 +67,14 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/s
 ##Nova:
 Official Documentation can be found [here](http://docs.openstack.org/developer/nova/)
 
+* [Monitoring OpenStack Nova](https://www.datadoghq.com/blog/openstack-monitoring-nova/)
+
 ##Magnum:
 Official Documentation can be found [here](http://docs.openstack.org/developer/magnum/)
 
 * [Announcing Magnum – CaaS for OpenStack](http://adrianotto.com/2015/01/announcing-magnum-caas-for-openstack/)
 * [Magnum is the Name, Docker Container Management is the Game](http://thenewstack.io/magnum-is-the-name-docker-container-management-is-the-game/)
-* [Magnum: Containers-as-a-Service for OpenStack Clouds](http://blog.rackspace.com/magnum-containers-as-a-service-for-openstack-clouds/) 
+* [Magnum: Containers-as-a-Service for OpenStack Clouds](http://blog.rackspace.com/magnum-containers-as-a-service-for-openstack-clouds/)
 * [KUBERNETES AND MAGNUM: CONTAINERS-AS-A-SERVICE IN OPENSTACK](https://kismatic.com/community/magnum-containers-service-for-openstack/)
 
 
