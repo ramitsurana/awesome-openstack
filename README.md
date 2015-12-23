@@ -1,4 +1,5 @@
-# Awesome-openstack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ramitsurana/awesome-openstack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+# Awesome-openstack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+[![Build Status](https://travis-ci.org/ramitsurana/awesome-openstack.svg)](https://travis-ci.org/ramitsurana/awesome-openstack)
 
 A curated list for awesome openstack links
 
@@ -172,4 +173,4 @@ Check out the [Contributing Guidelines](https://github.com/ramitsurana/awesome-o
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">awesome-openstack</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.github.com/ramitsurana" property="cc:attributionName" rel="cc:attributionURL">Ramit Surana</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-See the [License](https://github.com/ramitsurana/awesome-openstack/blob/master/LICENSE)for more info.
+See the [License](https://github.com/ramitsurana/awesome-openstack/blob/master/LICENSE) for more info.
