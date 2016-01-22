@@ -58,7 +58,7 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/k
 ###Cinder:
 Official Documentation can be found [here](http://docs.openstack.org/developer/cinder/)
 
-* [Configuring OpenStack Block Storage](http://www.rackspace.com/knowledge_center/article/configuring-openstack-block-storage)
+* [Configuring OpenStack Block Storage](https://www.rackspace.com/knowledge_center/article/configuring-openstack-block-storage)
 * [What is Cinder and how to install and use it?](http://blog.flux7.com/blogs/openstack/tutorial-what-is-cinder-and-how-to-install-and-use-it)
 * [OpenStack storage: Cinder and Swift explained](http://www.computerweekly.com/feature/OpenStack-storage-Cinder-and-Swift-explained)
 
@@ -112,7 +112,7 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/z
 
 
 ## Interesting Github-repos:
-* [Main Repo](https://www.github.com/openstack)
+* [Main Repo](https://github.com/openstack)
 
 ## Books:
 ###OReilly Publication:
@@ -177,6 +177,6 @@ Check out the [Contributing Guidelines](https://github.com/ramitsurana/awesome-o
 
 ## License:
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">awesome-openstack</span> by <a xmlns:cc="http://creativecommons.org" href="https://www.github.com/ramitsurana" property="cc:attributionName" rel="cc:attributionURL">Ramit Surana</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">awesome-openstack</span> by <a xmlns:cc="http://creativecommons.org" href="https://github.com/ramitsurana" property="cc:attributionName" rel="cc:attributionURL">Ramit Surana</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 See the [License](https://github.com/ramitsurana/awesome-openstack/blob/master/LICENSE) for more info.
