@@ -60,7 +60,7 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/k
 ###Cinder:
 Official Documentation can be found [here](http://docs.openstack.org/developer/cinder/)
 
-* [Configuring OpenStack Block Storage](https://www.rackspace.com/knowledge_center/article/configuring-openstack-block-storage)
+* [Configuring OpenStack Block Storage](https://support.rackspace.com/how-to/configuring-openstack-block-storage/)
 * [What is Cinder and how to install and use it?](http://blog.flux7.com/blogs/openstack/tutorial-what-is-cinder-and-how-to-install-and-use-it)
 * [OpenStack storage: Cinder and Swift explained](http://www.computerweekly.com/feature/OpenStack-storage-Cinder-and-Swift-explained)
 
@@ -104,7 +104,7 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/h
 * [An Introduction to OpenStack Heat](http://blog.scottlowe.org/2014/05/01/an-introduction-to-openstack-heat/)
 * [Building Linux images for use with Openstack Heat](https://opensource.com/business/15/8/heat-on-openstack-clouds)
 * [Intro to Heat Orchestration](https://www.mirantis.com/blog/mirantis-openstack-express-intro-heat-orchestration/)
-* [Manage instance startup order in OpenStack Heat   Templates](http://blog.zhaw.ch/icclab/manage-instance-startup-order-in-openstack-heat-templates/)
+* [Manage instance startup order in OpenStack Heat   Templates](https://blog.zhaw.ch/icclab/manage-instance-startup-order-in-openstack-heat-templates/)
 
 ##Sahara:
 Official Documentation can be found [here](http://docs.openstack.org/developer/sahara/)
