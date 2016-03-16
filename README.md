@@ -60,7 +60,6 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/k
 ###Cinder:
 Official Documentation can be found [here](http://docs.openstack.org/developer/cinder/)
 
-* [Configuring OpenStack Block Storage](https://support.rackspace.com/how-to/configuring-openstack-block-storage/)
 * [What is Cinder and how to install and use it?](http://blog.flux7.com/blogs/openstack/tutorial-what-is-cinder-and-how-to-install-and-use-it)
 * [OpenStack storage: Cinder and Swift explained](http://www.computerweekly.com/feature/OpenStack-storage-Cinder-and-Swift-explained)
 
