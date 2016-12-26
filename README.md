@@ -14,7 +14,7 @@ Without the help from these [amazing contributors](https://github.com/ramitsuran
 
 # What is Openstack ?
 
->  OpenStack is a free and open-source cloud-computing software platform.Users primarily deploy it as an infrastructure-as-a-service (IaaS). The technology consists of a group of interrelated projects that control pools of processing, storage, and networking resources throughout a data center—which users manage through a web-based dashboard, through command-line tools, or through a RESTful API..
+>  OpenStack is a free and open-source cloud-computing software platform.Users primarily deploy it as an infrastructure-as-a-service (IaaS). The technology consists of a group of interrelated projects that control pools of processing, storage, and networking resources throughout a data center—which users manage through a web-based dashboard, through command-line tools, or through a RESTful API.
 
 _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
 
@@ -26,8 +26,8 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
 * [Useful Articles](#useful-articles)
  * [Keystone](#keystone)
  * [Storage](#storage)
-  * [Cinder](#cinder)
-  * [Swift](#swift)
+ * [Cinder](#cinder)
+ * [Swift](#swift)
  * [Nova](#nova)
  * [Magnum](#magnum)
  * [Ironic](#ironic)
@@ -37,7 +37,7 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
  * [Heat](#heat)
  * [Sahara](#sahara)
  * [Zaqar](#zaqar)
-* [Interesting Github-repos](#interesting-github-repos)
+ * [Fuel](#fuel)
 * [Books](#books)
  * [OReilly Publication](#oreilly-publication)
  * [Packt Publication](#packt-publication)
@@ -112,8 +112,8 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/s
 Official Documentation can be found [here](http://docs.openstack.org/developer/zaqar/)
 
 
-## Interesting Github-repos:
-* [Main Repo](https://github.com/openstack)
+##Fuel:
+Official Documentation can be found [here](http://docs.openstack.org/developer/fuel/)
 
 ## Books:
 ###OReilly Publication:
