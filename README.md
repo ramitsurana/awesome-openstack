@@ -74,7 +74,7 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/n
 ##Magnum:
 Official Documentation can be found [here](http://docs.openstack.org/developer/magnum/)
 
-* [Announcing Magnum – CaaS for OpenStack](http://adrianotto.com/2015/01/announcing-magnum-caas-for-openstack/)
+* [Announcing Magnum – CaaS for OpenStack](http://lists.openstack.org/pipermail/openstack-dev/2015-January/054848.html)
 * [Magnum is the Name, Docker Container Management is the Game](http://thenewstack.io/magnum-is-the-name-docker-container-management-is-the-game/)
 * [Magnum: Containers-as-a-Service for OpenStack Clouds](http://blog.rackspace.com/magnum-containers-as-a-service-for-openstack-clouds/)
 * [KUBERNETES AND MAGNUM: CONTAINERS-AS-A-SERVICE IN OPENSTACK](https://kismatic.com/community/magnum-containers-service-for-openstack/)
@@ -113,7 +113,7 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/z
 
 
 ##Fuel:
-Official Documentation can be found [here](http://docs.openstack.org/developer/fuel/)
+Official Documentation can be found [here](https://docs.openstack.org/developer/fuel-docs/)
 
 ## Books:
 ###OReilly Publication:
