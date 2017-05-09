@@ -20,7 +20,6 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
 
 # Starting point:
 
-
 # Menu:
 * [Main Resources](#main-resources)
 * [Useful Articles](#useful-articles)
@@ -51,27 +50,27 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
 
 # Main Resources:
 # Useful Articles:
-##Keystone:
+## Keystone:
 Official Documentation can be found [here](http://docs.openstack.org/developer/keystone/)
 
 * [Understanding Openstack Authentication: Keystone PKI](https://www.mirantis.com/blog/understanding-openstack-authentication-keystone-pki/)
 
-##Storage:
-###Cinder:
+## Storage:
+### Cinder:
 Official Documentation can be found [here](http://docs.openstack.org/developer/cinder/)
 
 * [What is Cinder and how to install and use it?](http://blog.flux7.com/blogs/openstack/tutorial-what-is-cinder-and-how-to-install-and-use-it)
 * [OpenStack storage: Cinder and Swift explained](http://www.computerweekly.com/feature/OpenStack-storage-Cinder-and-Swift-explained)
 
-###Swift:
+### Swift:
 Official Documentation can be found [here](http://docs.openstack.org/developer/swift/).
 
-##Nova:
+## Nova:
 Official Documentation can be found [here](http://docs.openstack.org/developer/nova/)
 
 * [Monitoring OpenStack Nova](https://www.datadoghq.com/blog/openstack-monitoring-nova/)
 
-##Magnum:
+## Magnum:
 Official Documentation can be found [here](http://docs.openstack.org/developer/magnum/)
 
 * [Announcing Magnum – CaaS for OpenStack](http://lists.openstack.org/pipermail/openstack-dev/2015-January/054848.html)
@@ -80,23 +79,23 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/m
 * [KUBERNETES AND MAGNUM: CONTAINERS-AS-A-SERVICE IN OPENSTACK](https://kismatic.com/community/magnum-containers-service-for-openstack/)
 
 
-##Ironic:
+## Ironic:
 Official Documentation can be found [here](http://docs.openstack.org/developer/ironic/)
 
-##Neutron:
+## Neutron:
 Official Documentation can be found [here](http://docs.openstack.org/developer/neutron/)
 
-##Horizon:
+## Horizon:
 Official Documentation can be found [here](http://docs.openstack.org/developer/horizon/)
 
 * [Building Custom Dashboards in OpenStack Horizon](http://keithtenzer.com/2015/02/16/building-custom-dashboards-in-openstack-horizon/) by [Keith Tenzer](https://twitter.com/keithtenzer)
 * [Openstack Horizon installation with SSL on Ubuntu](https://raymii.org/s/tutorials/Openstack-Set-Up-Horizon-Dashboard-on-Ubuntu.html) by [Remy van Elst](https://raymii.org/s/static/About.html)
 * [Deploying the Dashboard (Horizon)](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/2/html/Getting_Started_Guide/chap-Deploying_The_Dashboard.html) by [Red Hat](https://www.redhat.com)
 
-##Glance:
+## Glance:
 Official Documentation can be found [here](http://docs.openstack.org/developer/glance/)
 
-##Heat:
+## Heat:
 Official Documentation can be found [here](http://docs.openstack.org/developer/heat/)
 
 * [Automating the cloud with OpenStack Heat](http://www.zdnet.com/article/automating-the-cloud-with-openstack-heat/)
@@ -105,23 +104,23 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/h
 * [Intro to Heat Orchestration](https://www.mirantis.com/blog/mirantis-openstack-express-intro-heat-orchestration/)
 * [Manage instance startup order in OpenStack Heat   Templates](https://blog.zhaw.ch/icclab/manage-instance-startup-order-in-openstack-heat-templates/)
 
-##Sahara:
+## Sahara:
 Official Documentation can be found [here](http://docs.openstack.org/developer/sahara/)
 
-##Zaqar:
+## Zaqar:
 Official Documentation can be found [here](http://docs.openstack.org/developer/zaqar/)
 
 
-##Fuel:
+## Fuel:
 Official Documentation can be found [here](https://docs.openstack.org/developer/fuel-docs/)
 
 ## Books:
-###OReilly Publication:
+### OReilly Publication:
 * [Deploying OpenStack](http://shop.oreilly.com/product/0636920021674.do) by [Ken Pepple](https://twitter.com/ken_pepple)
 * [OpenStack Swift](http://shop.oreilly.com/product/0636920033288.do) by [Joe Arnold](https://twitter.com/joearnold)
 * [OpenStack Operations Guide](http://shop.oreilly.com/product/0636920032625.do) by [Tom Fifield, Diane Fleming, Anne Gentle, Lorin Hochstein, Jonathan Proulx, Everett Toews, Joe Topjian](http://shop.oreilly.com/product/0636920032625.do#tab_03_2)
 
-###Packt Publication:
+### Packt Publication:
 * [OpenStack Cloud Computing Cookbook](https://www.packtpub.com/virtualization-and-cloud/openstack-cloud-computing-cookbook) by [Kevin Jackson](https://twitter.com/itarchitectkev)
 * [Learning OpenStack Networking (Neutron)](https://www.packtpub.com/virtualization-and-cloud/learning-openstack-networking-neutron) by [James Denton](https://twitter.com/jimmdenton)
 * [Production Ready OpenStack - Recipes for Successful Environments](https://www.packtpub.com/virtualization-and-cloud/production-ready-openstack-recipes-successful-environments) by [Arthur Berezin](https://twitter.com/arthurberezin)
@@ -139,7 +138,7 @@ Official Documentation can be found [here](https://docs.openstack.org/developer/
 * [OpenStack Architecture](http://www.slideshare.net/mirantis/openstack-architecture-43160012) by [Polina Petriuk]()
 
 ## Videos:
-###Main Account:
+### Main Account:
 * [Openstack Foundation](https://www.youtube.com/user/OpenStackFoundation)
 * [Mirantis](https://www.youtube.com/user/MirantisUS)
 * [Hp Helion](https://www.youtube.com/user/HewlettPackardVideos)
@@ -147,7 +146,7 @@ Official Documentation can be found [here](https://docs.openstack.org/developer/
 * [Red Hat](https://www.youtube.com/user/RedHatCloud)
 * [Cisco](https://www.youtube.com/user/Cisco)
 
-###Useful Videos:
+### Useful Videos:
 * [OpenStack 101 - What Is OpenStack?](https://www.youtube.com/watch?v=Qz5gyDenqTI)Time:6:35
 * [OpenStack Basics - Overview](https://www.youtube.com/watch?v=c1GFoY4btpo)Time:7:37
 * [Introduction to OpenStack](https://www.youtube.com/watch?v=bCsw2kkIWyw)Time:32:37
@@ -155,19 +154,19 @@ Official Documentation can be found [here](https://docs.openstack.org/developer/
 
 
 ## Amazing People:
-###Foundation Staff:
-* [Mark Collier](https://twitter.com/sparkycollier),Executive Director
-* [Jonathan Bryce](https://twitter.com/jbryce),Chief Operating Officer
-* [Lauren Sell](https://twitter.com/laurensell),Vice President, Marketing and Community Services
-* [Heidi Bretz](https://twitter.com/heidiscoop),Director of Business Development
-* [Thierry Carrez](https://twitter.com/tcarrez),Director of Engineering
-* [Todd Morey](https://twitter.com/toddmorey),Creative Director
-* [Wes Wilson](),Lead Designer
-* [Allison Price](https://twitter.com/amprice88),Marketing Coordinator
-* [Claire Massey](https://twitter.com/Massey),Marketing Manager
-* [Shari Mahrdt](https://twitter.com/sharimarii),Marketing Associate
-* [Kendall Waters](https://twitter.com/wendallkaters),Marketing Associate
-* [Tom Fifield](https://twitter.com/TomFifield),Supporting Member
+### Foundation Staff:
+* [Mark Collier](https://twitter.com/sparkycollier), Executive Director
+* [Jonathan Bryce](https://twitter.com/jbryce), Chief Operating Officer
+* [Lauren Sell](https://twitter.com/laurensell), Vice President, Marketing and Community Services
+* [Heidi Bretz](https://twitter.com/heidiscoop), Director of Business Development
+* [Thierry Carrez](https://twitter.com/tcarrez), Director of Engineering
+* [Todd Morey](https://twitter.com/toddmorey), Creative Director
+* [Wes Wilson](https://twitter.com/iamweswilson) ,Lead Designer
+* [Allison Price](https://twitter.com/amprice88), Marketing Coordinator
+* [Claire Massey](https://twitter.com/Massey), Marketing Manager
+* [Shari Mahrdt](https://twitter.com/sharimarii), Marketing Associate
+* [Kendall Waters](https://twitter.com/wendallkaters), Marketing Associate
+* [Tom Fifield](https://twitter.com/TomFifield), Supporting Member
 
 ## Contributing:
 Contributions are welcome!
