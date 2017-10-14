@@ -51,27 +51,27 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
 # Main Resources:
 # Useful Articles:
 ## Keystone:
-Official Documentation can be found [here](http://docs.openstack.org/developer/keystone/)
+Official Documentation can be found [here](https://docs.openstack.org/keystone/pike/)
 
 * [Understanding Openstack Authentication: Keystone PKI](https://www.mirantis.com/blog/understanding-openstack-authentication-keystone-pki/)
 
 ## Storage:
 ### Cinder:
-Official Documentation can be found [here](http://docs.openstack.org/developer/cinder/)
+Official Documentation can be found [here](https://docs.openstack.org/cinder/latest/)
 
 * [What is Cinder and how to install and use it?](http://blog.flux7.com/blogs/openstack/tutorial-what-is-cinder-and-how-to-install-and-use-it)
 * [OpenStack storage: Cinder and Swift explained](http://www.computerweekly.com/feature/OpenStack-storage-Cinder-and-Swift-explained)
 
 ### Swift:
-Official Documentation can be found [here](http://docs.openstack.org/developer/swift/).
+Official Documentation can be found [here](https://docs.openstack.org/swift/latest/)
 
 ## Nova:
-Official Documentation can be found [here](http://docs.openstack.org/developer/nova/)
+Official Documentation can be found [here](https://docs.openstack.org/nova/pike/)
 
 * [Monitoring OpenStack Nova](https://www.datadoghq.com/blog/openstack-monitoring-nova/)
 
 ## Magnum:
-Official Documentation can be found [here](http://docs.openstack.org/developer/magnum/)
+Official Documentation can be found [here](https://docs.openstack.org/magnum/latest/)
 
 * [Announcing Magnum – CaaS for OpenStack](http://lists.openstack.org/pipermail/openstack-dev/2015-January/054848.html)
 * [Magnum is the Name, Docker Container Management is the Game](http://thenewstack.io/magnum-is-the-name-docker-container-management-is-the-game/)
@@ -80,20 +80,20 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/m
 
 
 ## Ironic:
-Official Documentation can be found [here](http://docs.openstack.org/developer/ironic/)
+Official Documentation can be found [here](https://docs.openstack.org/ironic/latest/)
 
 ## Neutron:
-Official Documentation can be found [here](http://docs.openstack.org/developer/neutron/)
+Official Documentation can be found [here](https://docs.openstack.org/neutron/latest/)
 
 ## Horizon:
-Official Documentation can be found [here](http://docs.openstack.org/developer/horizon/)
+Official Documentation can be found [here](https://docs.openstack.org/horizon/latest/)
 
 * [Building Custom Dashboards in OpenStack Horizon](http://keithtenzer.com/2015/02/16/building-custom-dashboards-in-openstack-horizon/) by [Keith Tenzer](https://twitter.com/keithtenzer)
 * [Openstack Horizon installation with SSL on Ubuntu](https://raymii.org/s/tutorials/Openstack-Set-Up-Horizon-Dashboard-on-Ubuntu.html) by [Remy van Elst](https://raymii.org/s/static/About.html)
 * [Deploying the Dashboard (Horizon)](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/2/html/Getting_Started_Guide/chap-Deploying_The_Dashboard.html) by [Red Hat](https://www.redhat.com)
 
 ## Glance:
-Official Documentation can be found [here](http://docs.openstack.org/developer/glance/)
+Official Documentation can be found [here](https://docs.openstack.org/glance/latest/)
 
 ## Heat:
 Official Documentation can be found [here](http://docs.openstack.org/developer/heat/)
@@ -105,14 +105,10 @@ Official Documentation can be found [here](http://docs.openstack.org/developer/h
 * [Manage instance startup order in OpenStack Heat   Templates](https://blog.zhaw.ch/icclab/manage-instance-startup-order-in-openstack-heat-templates/)
 
 ## Sahara:
-Official Documentation can be found [here](http://docs.openstack.org/developer/sahara/)
+Official Documentation can be found [here](https://docs.openstack.org/sahara/latest/)
 
 ## Zaqar:
-Official Documentation can be found [here](http://docs.openstack.org/developer/zaqar/)
-
-
-## Fuel:
-Official Documentation can be found [here](https://docs.openstack.org/developer/fuel-docs/)
+Official Documentation can be found [here](https://docs.openstack.org/zaqar/latest/)
 
 ## Books:
 ### OReilly Publication:
