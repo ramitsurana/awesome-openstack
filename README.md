@@ -39,6 +39,7 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
  * [Fuel](#fuel)
 * [Books](#books)
  * [OReilly Publication](#oreilly-publication)
+ * [Manning Publication](#manning-publication)
  * [Packt Publication](#packt-publication)
 * [Slide Presentations](#slide-presentations)
 * [Videos](#videos)
@@ -115,6 +116,8 @@ Official Documentation can be found [here](https://docs.openstack.org/zaqar/late
 * [Deploying OpenStack](http://shop.oreilly.com/product/0636920021674.do) by [Ken Pepple](https://twitter.com/ken_pepple)
 * [OpenStack Swift](http://shop.oreilly.com/product/0636920033288.do) by [Joe Arnold](https://twitter.com/joearnold)
 * [OpenStack Operations Guide](http://shop.oreilly.com/product/0636920032625.do) by [Tom Fifield, Diane Fleming, Anne Gentle, Lorin Hochstein, Jonathan Proulx, Everett Toews, Joe Topjian](http://shop.oreilly.com/product/0636920032625.do#tab_03_2)
+
+### Manning Publication:
 * [OpenStack in Action](https://www.manning.com/books/openstack-in-action) by [V. K. Cody Bumgardner](https://twitter.com/codybum)
 
 ### Packt Publication:
