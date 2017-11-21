@@ -36,7 +36,8 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
  * [Heat](#heat)
  * [Sahara](#sahara)
  * [Zaqar](#zaqar)
- * [Fuel](#fuel)
+ * [Kolla](#kolla)
+ * [OpenStack-Helm](#openstack-helm)
 * [Books](#books)
  * [OReilly Publication](#oreilly-publication)
  * [Manning Publication](#manning-publication)
@@ -111,6 +112,20 @@ Official Documentation can be found [here](https://docs.openstack.org/sahara/lat
 ## Zaqar:
 Official Documentation can be found [here](https://docs.openstack.org/zaqar/latest/)
 
+## Kolla:
+### Kolla:
+Official Documentation can be found [here](https://docs.openstack.org/kolla/latest/)
+
+### Kolla-Ansible
+Official Documentation can be found [here](https://docs.openstack.org/kolla-ansible/latest/)
+
+### Kolla-Kubernetes
+Official Documentation can be found [here](https://docs.openstack.org/kolla-kubernetes/latest/)
+
+## OpenStack-Helm
+Official Documentation can be found [here](https://docs.openstack.org/openstack-helm/latest/)
+
+* [OpenStack Helm Workshop - OpenStack Summit Sydney](https://github.com/portdirect/sydney-workshop)
 ## Books:
 ### OReilly Publication:
 * [Deploying OpenStack](http://shop.oreilly.com/product/0636920021674.do) by [Ken Pepple](https://twitter.com/ken_pepple)
