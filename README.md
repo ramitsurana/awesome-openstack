@@ -129,7 +129,7 @@ Official Documentation can be found [here](https://docs.openstack.org/openstack-
 ## Books:
 ### OReilly Publication:
 * [Deploying OpenStack](http://shop.oreilly.com/product/0636920021674.do) by [Ken Pepple](https://twitter.com/ken_pepple)
-* [OpenStack Swift](http://shop.oreilly.com/product/0636920033288.do) by [Joe Arnold](https://twitter.com/joearnold)
+* [OpenStack Swift](https://www.safaribooksonline.com/library/view/openstack-swift/9781491903841/) by [Joe Arnold](https://twitter.com/joearnold)
 * [OpenStack Operations Guide](http://shop.oreilly.com/product/0636920032625.do) by [Tom Fifield, Diane Fleming, Anne Gentle, Lorin Hochstein, Jonathan Proulx, Everett Toews, Joe Topjian](http://shop.oreilly.com/product/0636920032625.do#tab_03_2)
 
 ### Manning Publication:
