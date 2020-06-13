@@ -166,6 +166,7 @@ Official Documentation can be found [here](https://docs.openstack.org/openstack-
 * [OpenStack Basics - Overview](https://www.youtube.com/watch?v=c1GFoY4btpo)Time:7:37
 * [Introduction to OpenStack](https://www.youtube.com/watch?v=bCsw2kkIWyw)Time:32:37
 * [Introduction to Openstack Neutron](https://www.youtube.com/watch?v=IGGgVuZe7UA)Time:33:21
+* [Openstack Online Courses on Classpert](https://classpert.com/openstack)
 
 
 ## Amazing People:
