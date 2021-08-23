@@ -46,6 +46,7 @@ _Source:_ [What is Openstack](https://en.wikipedia.org/wiki/OpenStack)
 * [Videos](#videos)
  * [Main Account](#main-account)
  * [Useful videos](#useful-videos)
+* [Software built on OpenStack](#software-built-on-openstack)
 * [Amazing People](#amazing-people)
 * [Contributing](#contributing)
 * [License](#license)
@@ -168,6 +169,9 @@ Official Documentation can be found [here](https://docs.openstack.org/openstack-
 * [Introduction to Openstack Neutron](https://www.youtube.com/watch?v=IGGgVuZe7UA)Time:33:21
 * [Openstack Online Courses on Classpert](https://classpert.com/openstack)
 
+## Software built on OpenStack
+
+* [Exosphere](https://gitlab.com/exosphere/exosphere) - A user-friendly, extensible OpenStack client, written in [Elm](https://elm-lang.org/), deployed as a [PWA](https://en.wikipedia.org/wiki/Progressive_web_application), by [Julian Pistorius](https://github.com/julianpistorius/) and [Chris Martin](https://github.com/c-mart).
 
 ## Amazing People:
 ### Foundation Staff:
